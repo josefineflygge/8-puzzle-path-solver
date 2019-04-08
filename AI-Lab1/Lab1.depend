@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1554740929 source:c:\users\jflyg\documents\liu\tnm096 ai\ai-lab1\main.cpp
+	<iostream>
+	<vector>
+	<functional>
+	<math.h>
+	<algorithm>
+	<queue>
+	<set>
+	<iterator>
+
